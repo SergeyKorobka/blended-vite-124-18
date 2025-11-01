@@ -1,0 +1,37 @@
+.section {
+  padding: 50px 0;
+}
+
+.main-btn,
+.second-btn {
+  display: block;
+  min-width: 110px;
+  padding: 13px 24px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  background-color: #02897a;
+
+  font-weight: 600;
+  line-height: 1.5;
+  color: #fff;
+}
+
+.main-btn:hover,
+.main-btn:focus {
+  background-color: #006358;
+}
+
+.second-btn {
+  border: 1px solid #bcd0e5;
+  background-color: #fff;
+  color: #173a56;
+}
+
+.logo {
+  gap: 16px;
+
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 0.93;
+  color: #173a56;
+}
